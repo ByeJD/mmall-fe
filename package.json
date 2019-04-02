@@ -1,0 +1,22 @@
+{
+  "name": "mmall-fe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ByeJD/mmall-fe.git"
+  },
+  "author": "quanquan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ByeJD/mmall-fe/issues"
+  },
+  "homepage": "https://github.com/ByeJD/mmall-fe#readme",
+  "devDependencies": {
+    "webpack": "^1.15.0"
+  }
+}
